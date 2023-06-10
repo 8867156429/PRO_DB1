@@ -8,6 +8,6 @@ CREATE TABLE All_In_two
 
 );
 
-INSERT INTO All_In_One
+INSERT INTO All_In_two
 VALUES ('MS', 'DHONI', 42, 163), ('Rahul', 'Dravid', 52, 154), ('Virat', 'Kholi', 38, 159)
 ;
