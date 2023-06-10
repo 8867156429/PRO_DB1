@@ -1,5 +1,0 @@
-Use Schema Public;
-
-create view cust_vw As (
-select * from SNOWFLAKE_SAMPLE_DATA.TPCH_SF1000.CUSTOMER limit 100 
-);
